@@ -47,21 +47,31 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 
 [![Primary](https://skillicons.dev/icons?i=php,symfony,ts,nodejs,nestjs,go,java,spring)](https://skillicons.dev)
 
+<sub>PHP · Symfony · TypeScript · Node.js · NestJS · Go · Java · Spring Boot</sub>
+
 **Messaging & Streaming**
 
 [![Messaging](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev)
+
+<sub>Kafka · RabbitMQ</sub>
 
 **Databases & Storage**
 
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch)](https://skillicons.dev)
 
+<sub>PostgreSQL · MongoDB · Redis · Elasticsearch</sub>
+
 **Frontend & Desktop**
 
 [![Frontend](https://skillicons.dev/icons?i=react,electron)](https://skillicons.dev)
 
+<sub>React · Electron</sub>
+
 **Cloud & Infrastructure**
 
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,githubactions,nginx,jenkins,grafana,linux,bash)](https://skillicons.dev)
+
+<sub>AWS · GCP · Kubernetes · Docker · Terraform · GitHub Actions · Nginx · Jenkins · Grafana · Linux · Bash</sub>
 
 ---
 

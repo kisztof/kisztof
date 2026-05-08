@@ -14,6 +14,7 @@
 ---
 
 15+ years building distributed systems, APIs, and cloud infrastructure — fintech specialization.  
+Expertise: DDD · CQRS · Event Sourcing · Microservices · Modular Monolith.  
 Currently building **[Driftr](https://github.com/DriftrLabs/Driftr)** — open source tooling — and delivering client projects.  
 Open to freelance: architecture consulting, backend engineering, platform work.  
 📍 Kraków, Poland · Remote
@@ -61,22 +62,6 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 **Cloud & Infrastructure**
 
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,githubactions,nginx,jenkins,grafana,linux,bash)](https://skillicons.dev)
-
-**Architecture & Patterns**
-
-![Microservices](https://img.shields.io/badge/Microservices-informational?style=flat-square)
-![DDD](https://img.shields.io/badge/DDD-informational?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS-informational?style=flat-square)
-![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-informational?style=flat-square)
-![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-informational?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-informational?style=flat-square)
-
-**Testing**
-
-[![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-informational?style=flat-square)
-![Behat](https://img.shields.io/badge/Behat-informational?style=flat-square)
-![Codeception](https://img.shields.io/badge/Codeception-informational?style=flat-square)
 
 ---
 

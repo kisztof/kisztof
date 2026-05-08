@@ -45,33 +45,55 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 
 **Primary**
 
-[![Primary](https://skillicons.dev/icons?i=php,symfony,ts,nodejs,nestjs,go,java,spring)](https://skillicons.dev)
-
-<sub>PHP · Symfony · TypeScript · Node.js · NestJS · Go · Java · Spring Boot</sub>
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br><sub>PHP</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=symfony" width="48"/><br><sub>Symfony</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br><sub>TypeScript</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><sub>Node.js</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br><sub>NestJS</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=go" width="48"/><br><sub>Go</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><sub>Java</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br><sub>Spring</sub></td>
+</tr></table>
 
 **Messaging & Streaming**
 
-[![Messaging](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev)
-
-<sub>Kafka · RabbitMQ</sub>
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="48"/><br><sub>Kafka</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48"/><br><sub>RabbitMQ</sub></td>
+</tr></table>
 
 **Databases & Storage**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch)](https://skillicons.dev)
-
-<sub>PostgreSQL · MongoDB · Redis · Elasticsearch</sub>
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><sub>PostgreSQL</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><sub>MongoDB</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br><sub>Redis</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=elasticsearch" width="48"/><br><sub>Elasticsearch</sub></td>
+</tr></table>
 
 **Frontend & Desktop**
 
-[![Frontend](https://skillicons.dev/icons?i=react,electron)](https://skillicons.dev)
-
-<sub>React · Electron</sub>
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><sub>React</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=electron" width="48"/><br><sub>Electron</sub></td>
+</tr></table>
 
 **Cloud & Infrastructure**
 
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,githubactions,nginx,jenkins,grafana,linux,bash)](https://skillicons.dev)
-
-<sub>AWS · GCP · Kubernetes · Docker · Terraform · GitHub Actions · Nginx · Jenkins · Grafana · Linux · Bash</sub>
+<table><tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><sub>AWS</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br><sub>GCP</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br><sub>Kubernetes</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><sub>Docker</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="48"/><br><sub>Terraform</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br><sub>GitHub Actions</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br><sub>Nginx</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br><sub>Jenkins</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="48"/><br><sub>Grafana</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br><sub>Linux</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br><sub>Bash</sub></td>
+</tr></table>
 
 ---
 

@@ -83,7 +83,7 @@ Open to freelance: architecture consulting, backend engineering, platform work.
   &nbsp;
   <a href="https://twitter.com/kisztof"><img src="https://img.shields.io/badge/X-%40kisztof-black?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/krzysztof-słomka"><img src="https://img.shields.io/badge/LinkedIn-Krzysztof_Słomka-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kslomka/"><img src="https://img.shields.io/badge/LinkedIn-Krzysztof_Słomka-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://instagram.com/kisztof"><img src="https://img.shields.io/badge/Instagram-%40kisztof-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>

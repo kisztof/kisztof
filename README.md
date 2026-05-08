@@ -19,7 +19,9 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 
 ## 🚀 Featured Project
 
-[![Driftr](https://github-readme-stats.vercel.app/api/pin/?username=DriftrLabs&repo=Driftr&hide_border=true)](https://github.com/DriftrLabs/Driftr)
+<a href="https://github.com/DriftrLabs/Driftr">
+  <img src="https://opengraph.githubassets.com/1/DriftrLabs/Driftr" width="400" alt="Driftr" />
+</a>
 
 ---
 
@@ -64,10 +66,10 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kisztof&show_icons=true&hide_border=true&locale=en" alt="kisztof stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kisztof&theme=github_dark" alt="kisztof stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisztof&layout=compact&hide_border=true" alt="top languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kisztof&theme=github_dark" alt="top languages" />
     </td>
   </tr>
 </table>
@@ -77,8 +79,11 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 ## Connect
 
 <p align="left">
-<a href="https://medium.com/@kisztof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-<a href="https://twitter.com/kisztof" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krzysztof-słomka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/kisztof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://medium.com/@kisztof"><img src="https://img.shields.io/badge/Medium-%40kisztof-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  &nbsp;
+  <a href="https://twitter.com/kisztof"><img src="https://img.shields.io/badge/X-%40kisztof-black?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/krzysztof-słomka"><img src="https://img.shields.io/badge/LinkedIn-Krzysztof_Słomka-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://instagram.com/kisztof"><img src="https://img.shields.io/badge/Instagram-%40kisztof-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>

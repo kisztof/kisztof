@@ -34,11 +34,11 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 [![Medium](https://img.shields.io/badge/Medium-%40kisztof-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kisztof)
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Claude Code Setup Loses Context Every Session — And the Obsidian Architecture That Fixes It](https://kisztof.medium.com/why-your-claude-code-setup-loses-context-every-session-and-the-obsidian-architecture-that-fixes-it-2f32b0700531?source=rss-df4f59c0a241------2)
 - [Hermes Agent Review: Nous Research&#39;s Self-Improving AI Agent](https://kisztof.medium.com/hermes-agent-review-nous-researchs-self-improving-ai-agent-e72bc244435a?source=rss-df4f59c0a241------2)
 - [Securing Event-Sourced Financial Systems: From Encryption to Observability](https://kisztof.medium.com/securing-event-sourced-financial-systems-from-encryption-to-observability-1994fd2466c5?source=rss-df4f59c0a241------2)
 - [Why Your Event Store Becomes a Bottleneck &lpar;And How NestJS Microservices Can Fix It&rpar;](https://kisztof.medium.com/why-your-event-store-becomes-a-bottleneck-and-how-nestjs-microservices-can-fix-it-6611dd168874?source=rss-df4f59c0a241------2)
 - [How to Deal with a Closed Entity Manager in Doctrine](https://kisztof.medium.com/how-to-deal-with-a-closed-entity-manager-in-doctrine-ac3a2c1d74a1?source=rss-df4f59c0a241------2)
-- [Simplifying PHP Version Management with SWTP](https://kisztof.medium.com/simplifying-php-version-management-with-swtp-c6cf1848c1f8?source=rss-df4f59c0a241------2)
 <!-- BLOG-POST-LIST:END -->
 
 [→ More on Medium](https://medium.com/@kisztof)

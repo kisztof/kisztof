@@ -6,7 +6,7 @@
   &nbsp;
   <a href="mailto:krzysztof@slomka.pro"><img src="https://img.shields.io/badge/krzysztof%40slomka.pro-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <a href="https://kisztof.github.io/kisztof/CV_Krzysztof_S%C5%82omka_2026.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
+  <a href="https://kisztof.github.io/kisztof/public/Krzysztof_Slomka_CV_2026-05.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kslomka/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>

@@ -1,5 +1,5 @@
 <h1 align="center">Krzysztof Słomka</h1>
-<h3 align="center">Software Engineer · Architect · DevOps</h3>
+<h3 align="center">Senior Backend Engineer · Software Architect · DevOps</h3>
 
 <p align="center">
   <a href="mailto:krzysztof@slomka.pro"><img src="https://img.shields.io/badge/Available_for-Freelance-brightgreen?style=flat-square" alt="Available for freelance" /></a>
@@ -13,7 +13,7 @@
 
 ---
 
-15+ years building distributed systems, APIs, and cloud infrastructure — fintech specialization.  
+15+ years building distributed systems, APIs, and cloud infrastructure — fintech & open banking specialization.  
 Expertise: DDD · CQRS · Event Sourcing · Microservices · Modular Monolith.  
 Currently building **[Driftr](https://github.com/DriftrLabs/Driftr)** — open source tooling — and delivering client projects.  
 Open to freelance: architecture consulting, backend engineering, platform work.  
@@ -74,6 +74,8 @@ Open to freelance: architecture consulting, backend engineering, platform work.
   <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><sub>MongoDB</sub></td>
   <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br><sub>Redis</sub></td>
   <td align="center"><img src="https://skillicons.dev/icons?i=elasticsearch" width="48"/><br><sub>Elasticsearch</sub></td>
+  <td align="center"><img src="https://cdn.simpleicons.org/opensearch/005EB8" width="48"/><br><sub>OpenSearch</sub></td>
+  <td align="center"><img src="https://cdn.simpleicons.org/googlebigquery/4285F4" width="48"/><br><sub>BigQuery</sub></td>
 </tr></table>
 
 **Frontend & Desktop**
@@ -88,6 +90,7 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 <table><tr>
   <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><sub>AWS</sub></td>
   <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br><sub>GCP</sub></td>
+
   <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br><sub>Kubernetes</sub></td>
   <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><sub>Docker</sub></td>
   <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="48"/><br><sub>Terraform</sub></td>

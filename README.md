@@ -9,6 +9,8 @@
   <a href="https://kisztof.github.io/kisztof/public/Krzysztof_Slomka_CV_2026-05.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kslomka/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://slomka.pro"><img src="https://img.shields.io/badge/Website-slomka.pro-orange?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
@@ -127,5 +129,7 @@ Open to freelance: architecture consulting, backend engineering, platform work.
   <a href="https://twitter.com/kisztof"><img src="https://img.shields.io/badge/X-%40kisztof-black?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kslomka/"><img src="https://img.shields.io/badge/LinkedIn-Krzysztof_Słomka-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://slomka.pro"><img src="https://img.shields.io/badge/Website-slomka.pro-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 </p>

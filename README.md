@@ -36,11 +36,11 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 [![Medium](https://img.shields.io/badge/Medium-%40kisztof-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kisztof)
 
 <!-- BLOG-POST-LIST:START -->
+- [Idempotent Message Handlers in Symfony Messenger: Retries, Redelivery, and Duplicate Messages](https://kisztof.medium.com/idempotent-message-handlers-in-symfony-messenger-retries-redelivery-and-duplicate-messages-e45c6e3d1fc6?source=rss-df4f59c0a241------2)
 - [Driftr: What I Built When Volta Stopped Moving](https://kisztof.medium.com/driftr-what-i-built-when-volta-stopped-moving-3b3f63b518ec?source=rss-df4f59c0a241------2)
 - [Why Your Claude Code Setup Loses Context Every Session — And the Obsidian Architecture That Fixes It](https://kisztof.medium.com/why-your-claude-code-setup-loses-context-every-session-and-the-obsidian-architecture-that-fixes-it-2f32b0700531?source=rss-df4f59c0a241------2)
 - [Hermes Agent Review: Nous Research&#39;s Self-Improving AI Agent](https://kisztof.medium.com/hermes-agent-review-nous-researchs-self-improving-ai-agent-e72bc244435a?source=rss-df4f59c0a241------2)
 - [Securing Event-Sourced Financial Systems: From Encryption to Observability](https://kisztof.medium.com/securing-event-sourced-financial-systems-from-encryption-to-observability-1994fd2466c5?source=rss-df4f59c0a241------2)
-- [Why Your Event Store Becomes a Bottleneck &lpar;And How NestJS Microservices Can Fix It&rpar;](https://kisztof.medium.com/why-your-event-store-becomes-a-bottleneck-and-how-nestjs-microservices-can-fix-it-6611dd168874?source=rss-df4f59c0a241------2)
 <!-- BLOG-POST-LIST:END -->
 
 [→ More on Medium](https://medium.com/@kisztof)

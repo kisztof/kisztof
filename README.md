@@ -23,11 +23,26 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<a href="https://github.com/DriftrLabs/Driftr">
-  <img src="https://opengraph.githubassets.com/1/DriftrLabs/Driftr" width="400" alt="Driftr" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DriftrLabs/Driftr">
+        <img src="https://opengraph.githubassets.com/1/DriftrLabs/Driftr" width="400" alt="Driftr" />
+      </a>
+      <br />
+      <sub><b>Driftr</b> — open source tooling</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://stackmade.pl/en">
+        <img src="https://stackmade.pl/en/opengraph-image" width="400" alt="StackMade" />
+      </a>
+      <br />
+      <sub><b>StackMade</b> — studio brand: web, apps &amp; AI software, idea to production</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 

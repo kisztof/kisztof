@@ -74,7 +74,7 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 - [Driftr: What I Built When Volta Stopped Moving](https://slomka.pro/blog/driftr-volta-replacement)
 <!-- BLOG-POST-LIST:END -->
 
-[→ More on Medium](https://medium.com/@kisztof)
+[→ More on slomka.pro/blog](https://slomka.pro/blog)
 
 ---
 

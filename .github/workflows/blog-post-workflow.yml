@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@kisztof"
+          feed_list: "https://slomka.pro/blog/rss.xml"
           max_post_count: 5

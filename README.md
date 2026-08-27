@@ -67,11 +67,11 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 [![Medium](https://img.shields.io/badge/Medium-%40kisztof-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kisztof)
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruflo: What a Swarm Orchestration Layer Actually Adds to Claude Code](https://kisztof.medium.com/ruflo-what-a-swarm-orchestration-layer-actually-adds-to-claude-code-5257882c7fec?source=rss-df4f59c0a241------2)
-- [Idempotent Message Handlers in Symfony Messenger: Retries, Redelivery, and Duplicate Messages](https://kisztof.medium.com/idempotent-message-handlers-in-symfony-messenger-retries-redelivery-and-duplicate-messages-e45c6e3d1fc6?source=rss-df4f59c0a241------2)
-- [Driftr: What I Built When Volta Stopped Moving](https://kisztof.medium.com/driftr-what-i-built-when-volta-stopped-moving-3b3f63b518ec?source=rss-df4f59c0a241------2)
-- [Why Your Claude Code Setup Loses Context Every Session — And the Obsidian Architecture That Fixes It](https://kisztof.medium.com/why-your-claude-code-setup-loses-context-every-session-and-the-obsidian-architecture-that-fixes-it-2f32b0700531?source=rss-df4f59c0a241------2)
-- [Hermes Agent Review: Nous Research&#39;s Self-Improving AI Agent](https://kisztof.medium.com/hermes-agent-review-nous-researchs-self-improving-ai-agent-e72bc244435a?source=rss-df4f59c0a241------2)
+- [The Domain Model, and the Only Rule That Matters](https://slomka.pro/blog/ddd-hexagonal-php-domain-model)
+- [Ruflo: What a Swarm Orchestration Layer Actually Adds to Claude Code](https://slomka.pro/blog/ruflo-swarm-orchestration-claude-code)
+- [How We Processed 100 Million Events Per Day in Node.js](https://slomka.pro/blog/processing-100-million-events-nodejs)
+- [Building Idempotent Message Handlers in Symfony Messenger](https://slomka.pro/blog/building-idempotent-message-handlers-symfony-messenger)
+- [Driftr: What I Built When Volta Stopped Moving](https://slomka.pro/blog/driftr-volta-replacement)
 <!-- BLOG-POST-LIST:END -->
 
 [→ More on Medium](https://medium.com/@kisztof)

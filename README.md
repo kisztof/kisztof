@@ -45,7 +45,7 @@ Open to freelance: architecture consulting, backend engineering, platform work.
   <tr>
     <td align="center" width="50%">
       <a href="https://stackurl.pl">
-        <img src="https://stackurl.pl/opengraph-image" width="400" alt="StackURL" />
+        <img src="https://stackurl.pl/en/opengraph-image-1nh35u?f2de8d3fda952a3b" width="400" alt="StackURL" />
       </a>
       <br />
       <sub><b>StackURL</b></sub>

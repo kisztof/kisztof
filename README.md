@@ -42,6 +42,22 @@ Open to freelance: architecture consulting, backend engineering, platform work.
       <sub><b>StackMade</b> — studio brand: web, apps &amp; AI software, idea to production</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://stackurl.pl">
+        <img src="https://stackurl.pl/opengraph-image" width="400" alt="StackURL" />
+      </a>
+      <br />
+      <sub><b>StackURL</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://policzprosto.pl">
+        <img src="https://policzprosto.pl/opengraph-image" width="400" alt="PoliczProsto" />
+      </a>
+      <br />
+      <sub><b>PoliczProsto</b></sub>
+    </td>
+  </tr>
 </table>
 
 ---

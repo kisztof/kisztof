@@ -67,11 +67,11 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 [![Medium](https://img.shields.io/badge/Medium-%40kisztof-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kisztof)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Application Layer, the Transaction, and a Working API](https://slomka.pro/blog/ddd-hexagonal-php-application-layer-api)
 - [The Domain Model, and the Only Rule That Matters](https://slomka.pro/blog/ddd-hexagonal-php-domain-model)
 - [Ruflo: What a Swarm Orchestration Layer Actually Adds to Claude Code](https://slomka.pro/blog/ruflo-swarm-orchestration-claude-code)
 - [How We Processed 100 Million Events Per Day in Node.js](https://slomka.pro/blog/processing-100-million-events-nodejs)
 - [Building Idempotent Message Handlers in Symfony Messenger](https://slomka.pro/blog/building-idempotent-message-handlers-symfony-messenger)
-- [Driftr: What I Built When Volta Stopped Moving](https://slomka.pro/blog/driftr-volta-replacement)
 <!-- BLOG-POST-LIST:END -->
 
 [→ More on slomka.pro/blog](https://slomka.pro/blog)

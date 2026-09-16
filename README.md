@@ -67,11 +67,11 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 [![Medium](https://img.shields.io/badge/Medium-%40kisztof-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kisztof)
 
 <!-- BLOG-POST-LIST:START -->
+- [Domain Events Are Not Integration Events](https://slomka.pro/blog/ddd-hexagonal-php-domain-events-async)
 - [The Read Side Does Not Go Through the Aggregate](https://slomka.pro/blog/ddd-hexagonal-php-read-models-cqrs)
 - [The Application Layer, the Transaction, and a Working API](https://slomka.pro/blog/ddd-hexagonal-php-application-layer-api)
 - [The Domain Model, and the Only Rule That Matters](https://slomka.pro/blog/ddd-hexagonal-php-domain-model)
 - [Ruflo: What a Swarm Orchestration Layer Actually Adds to Claude Code](https://slomka.pro/blog/ruflo-swarm-orchestration-claude-code)
-- [How We Processed 100 Million Events Per Day in Node.js](https://slomka.pro/blog/processing-100-million-events-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 [→ More on slomka.pro/blog](https://slomka.pro/blog)

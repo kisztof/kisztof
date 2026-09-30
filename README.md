@@ -67,11 +67,11 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 [![Medium](https://img.shields.io/badge/Medium-%40kisztof-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kisztof)
 
 <!-- BLOG-POST-LIST:START -->
+- [What This Architecture Cost, Measured Rather Than Argued](https://slomka.pro/blog/ddd-hexagonal-php-what-it-cost)
+- [gtm-as-code: Google Tag Manager Changes Belong in a Pull Request](https://slomka.pro/blog/gtm-as-code-tag-manager-in-pull-requests)
 - [Event Sourcing Behind the Port You Already Have](https://slomka.pro/blog/ddd-hexagonal-php-event-sourcing-adapter)
 - [Domain Events Are Not Integration Events](https://slomka.pro/blog/ddd-hexagonal-php-domain-events-async)
 - [The Read Side Does Not Go Through the Aggregate](https://slomka.pro/blog/ddd-hexagonal-php-read-models-cqrs)
-- [The Application Layer, the Transaction, and a Working API](https://slomka.pro/blog/ddd-hexagonal-php-application-layer-api)
-- [The Domain Model, and the Only Rule That Matters](https://slomka.pro/blog/ddd-hexagonal-php-domain-model)
 <!-- BLOG-POST-LIST:END -->
 
 [→ More on slomka.pro/blog](https://slomka.pro/blog)

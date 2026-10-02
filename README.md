@@ -17,7 +17,7 @@
 
 15+ years building distributed systems, APIs, and cloud infrastructure — fintech & open banking specialization.  
 Expertise: DDD · CQRS · Event Sourcing · Microservices · Modular Monolith.  
-Currently building **[Driftr](https://github.com/DriftrLabs/Driftr)** — open source tooling — and delivering client projects.  
+Currently building **[Driftr](https://github.com/StackMade/Driftr)** — open source tooling — and delivering client projects.  
 Open to freelance: architecture consulting, backend engineering, platform work.  
 📍 Kraków, Poland · Remote
 
@@ -28,8 +28,8 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/DriftrLabs/Driftr">
-        <img src="https://opengraph.githubassets.com/1/DriftrLabs/Driftr" width="400" alt="Driftr" />
+      <a href="https://github.com/StackMade/Driftr">
+        <img src="https://opengraph.githubassets.com/1/StackMade/Driftr" width="400" alt="Driftr" />
       </a>
       <br />
       <sub><b>Driftr</b> — open source tooling</sub>
@@ -56,6 +56,27 @@ Open to freelance: architecture consulting, backend engineering, platform work.
       </a>
       <br />
       <sub><b>PoliczProsto</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://tilter.app">
+        <img src="https://tilter.app/assets/icon-512.png" width="128" alt="Tilter" />
+      </a>
+      <br />
+      <sub><b>Tilter</b> — foldable screen for your MacBook</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://labelbite.app"><b>LabelBite</b></a>
+      <br />
+      <sub>coming soon</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>TabataTap</b>
+      <br />
+      <sub>coming soon</sub>
     </td>
   </tr>
 </table>

@@ -67,16 +67,18 @@ Open to freelance: architecture consulting, backend engineering, platform work.
       <sub><b>Tilter</b> — foldable screen for your MacBook</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://labelbite.app"><b>LabelBite</b></a>
+      <a href="https://labelbite.app">
+        <img src="docs/public/labelbite-today.png" height="320" alt="LabelBite" />
+      </a>
       <br />
-      <sub>coming soon</sub>
+      <sub><b>LabelBite</b> — coming soon</sub>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <b>TabataTap</b>
+      <img src="docs/public/tabatatap-work.png" height="320" alt="TabataTap" />
       <br />
-      <sub>coming soon</sub>
+      <sub><b>TabataTap</b> — coming soon</sub>
     </td>
   </tr>
 </table>

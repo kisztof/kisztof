@@ -75,10 +75,56 @@ Open to freelance: architecture consulting, backend engineering, platform work.
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
+      <a href="https://fluxfer.stackmade.pl">
+        <img src="docs/public/fluxfer-icon.png" width="128" alt="Fluxfer" />
+      </a>
+      <br />
+      <sub><b>Fluxfer</b> — dual-pane SFTP, FTP and FTPS file manager for macOS</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://budgetstack.pl">
+        <img src="https://budgetstack.pl/opengraph-image" width="400" alt="BudgetStack" />
+      </a>
+      <br />
+      <sub><b>BudgetStack</b> — household budget from receipts and bank statements</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <img src="docs/public/tabatatap-work.png" height="320" alt="TabataTap" />
       <br />
       <sub><b>TabataTap</b> — coming soon</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/StackMade/gtm-as-code">
+        <img src="https://opengraph.githubassets.com/1/StackMade/gtm-as-code" width="400" alt="gtm-as-code" />
+      </a>
+      <br />
+      <sub><b>gtm-as-code</b> — Google Tag Manager and GA4 configuration as code</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📺 Video & Website
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/WBpo0UoZgxA">
+        <img src="https://img.youtube.com/vi/WBpo0UoZgxA/maxresdefault.jpg" width="400" alt="Give your coding agent memory: Serena + Graphify + Obsidian, set up from scratch" />
+      </a>
+      <br />
+      <sub><b><a href="https://www.youtube.com/@kisztof">YouTube</a></b> — agent tooling, architecture and real setups, recorded end to end · <a href="https://www.youtube.com/@dev-records">Dev Records</a>: music for developers</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://slomka.pro">
+        <img src="https://slomka.pro/opengraph-image" width="400" alt="slomka.pro" />
+      </a>
+      <br />
+      <sub><b><a href="https://slomka.pro">slomka.pro</a></b> — portfolio and engineering blog</sub>
     </td>
   </tr>
 </table>

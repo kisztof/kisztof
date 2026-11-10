@@ -23,23 +23,35 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 
 ---
 
+<p align="center">
+  <a href="https://slomka.pro">
+    <img src="https://slomka.pro/opengraph-image" width="600" alt="slomka.pro" />
+  </a>
+  <br />
+  <sub><b><a href="https://slomka.pro">slomka.pro</a></b> — portfolio and engineering blog</sub>
+</p>
+
+---
+
 ## 🚀 Featured Projects
+
+### 🌐 Web
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/StackMade/Driftr">
-        <img src="https://opengraph.githubassets.com/1/StackMade/Driftr" width="400" alt="Driftr" />
-      </a>
-      <br />
-      <sub><b>Driftr</b> — open source tooling</sub>
-    </td>
     <td align="center" width="50%">
       <a href="https://stackmade.pl/en">
         <img src="https://stackmade.pl/en/opengraph-image" width="400" alt="StackMade" />
       </a>
       <br />
       <sub><b>StackMade</b> — studio brand: web, apps &amp; AI software, idea to production</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://budgetstack.pl">
+        <img src="https://budgetstack.pl/opengraph-image" width="400" alt="BudgetStack" />
+      </a>
+      <br />
+      <sub><b>BudgetStack</b> — household budget from receipts and bank statements</sub>
     </td>
   </tr>
   <tr>
@@ -58,13 +70,18 @@ Open to freelance: architecture consulting, backend engineering, platform work.
       <sub><b>PoliczProsto</b></sub>
     </td>
   </tr>
+</table>
+
+### 📱 Apps
+
+<table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://tilter.app">
-        <img src="https://tilter.app/assets/icon-512.png" width="128" alt="Tilter" />
+      <a href="https://fluxfer.stackmade.pl">
+        <img src="docs/public/fluxfer-icon.png" width="128" alt="Fluxfer" />
       </a>
       <br />
-      <sub><b>Tilter</b> — foldable screen for your MacBook</sub>
+      <sub><b>Fluxfer</b> — dual-pane SFTP, FTP and FTPS file manager for macOS</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://labelbite.app">
@@ -76,25 +93,30 @@ Open to freelance: architecture consulting, backend engineering, platform work.
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://fluxfer.stackmade.pl">
-        <img src="docs/public/fluxfer-icon.png" width="128" alt="Fluxfer" />
-      </a>
-      <br />
-      <sub><b>Fluxfer</b> — dual-pane SFTP, FTP and FTPS file manager for macOS</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://budgetstack.pl">
-        <img src="https://budgetstack.pl/opengraph-image" width="400" alt="BudgetStack" />
-      </a>
-      <br />
-      <sub><b>BudgetStack</b> — household budget from receipts and bank statements</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <img src="docs/public/tabatatap-work.png" height="320" alt="TabataTap" />
       <br />
       <sub><b>TabataTap</b> — coming soon</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://tilter.app">
+        <img src="https://tilter.app/assets/icon-512.png" width="128" alt="Tilter" />
+      </a>
+      <br />
+      <sub><b>Tilter</b> — foldable screen for your MacBook</sub>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Open Source
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/StackMade/Driftr">
+        <img src="https://opengraph.githubassets.com/1/StackMade/Driftr" width="400" alt="Driftr" />
+      </a>
+      <br />
+      <sub><b>Driftr</b> — open source tooling</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/StackMade/gtm-as-code">
@@ -108,7 +130,7 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 
 ---
 
-## 📺 Video & Website
+## 📺 YouTube
 
 <table>
   <tr>
@@ -117,17 +139,21 @@ Open to freelance: architecture consulting, backend engineering, platform work.
         <img src="https://img.youtube.com/vi/WBpo0UoZgxA/maxresdefault.jpg" width="400" alt="Give your coding agent memory: Serena + Graphify + Obsidian, set up from scratch" />
       </a>
       <br />
-      <sub><b><a href="https://www.youtube.com/@kisztof">YouTube</a></b> — agent tooling, architecture and real setups, recorded end to end · <a href="https://www.youtube.com/@dev-records">Dev Records</a>: music for developers</sub>
+      <sub>Give your coding agent memory: Serena + Graphify + Obsidian, set up from scratch</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://slomka.pro">
-        <img src="https://slomka.pro/opengraph-image" width="400" alt="slomka.pro" />
+      <a href="https://youtu.be/2ZvHtN4Bu8M">
+        <img src="https://img.youtube.com/vi/2ZvHtN4Bu8M/maxresdefault.jpg" width="400" alt="How We Processed 100 Million Events a Day in Node.js" />
       </a>
       <br />
-      <sub><b><a href="https://slomka.pro">slomka.pro</a></b> — portfolio and engineering blog</sub>
+      <sub>How We Processed 100 Million Events a Day in Node.js</sub>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub><b><a href="https://www.youtube.com/@kisztof">YouTube</a></b> — agent tooling, architecture and real setups, recorded end to end · <a href="https://www.youtube.com/@dev-records">Dev Records</a>: music for developers</sub>
+</p>
 
 ---
 

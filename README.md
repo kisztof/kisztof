@@ -162,11 +162,11 @@ Open to freelance: architecture consulting, backend engineering, platform work.
 [![Medium](https://img.shields.io/badge/Medium-%40kisztof-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kisztof)
 
 <!-- BLOG-POST-LIST:START -->
+- [Who can read your household budget: a threat model for BudgetStack](https://slomka.pro/blog/who-can-read-your-household-budget-budgetstack-threat-model)
 - [StackMade OS: the agentic operating system I layered on Claude Code](https://slomka.pro/blog/stackmade-os-agentic-operating-system)
 - [One repo, three layers: Serena, Graphify and Obsidian for agents](https://slomka.pro/blog/agent-tooling-serena-graphify-obsidian-setup)
 - [Home Assistant energy controller: PV, G13 and heat pump](https://slomka.pro/blog/home-assistant-pv-g13-heat-pump-winter-optimisation)
 - [Jev as a Claude Code prompt router: routing by task size](https://slomka.pro/blog/jev-router-claude-code)
-- [What This Architecture Cost, Measured Rather Than Argued](https://slomka.pro/blog/ddd-hexagonal-php-what-it-cost)
 <!-- BLOG-POST-LIST:END -->
 
 [→ More on slomka.pro/blog](https://slomka.pro/blog)
